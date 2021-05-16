@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "6079a3236ab6721d981b3a2a"
+  },
+  "text": "Le repas était excellent. La piscine est propre et l'eau est chauffé comme il le faut le soir. Le cadre de l'île est magnifique, par contre il faisait très chaud",
+  "writer": {
+    "$oid": "60798d554ebb020f384f98cf"
+  },
+  "hotel": {
+    "$oid": "6079990a86214c1b04b13fb0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a4dd6ab6721d981b3a2b"
+  },
+  "text": "Les lits étaient comfortables, par contre la chambre n'était pas très propre. Les rhums arrangés étaient très bon aussi !",
+  "writer": {
+    "$oid": "60798d124ebb020f384f98cd"
+  },
+  "hotel": {
+    "$oid": "6079990a86214c1b04b13fb0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a5846ab6721d981b3a2c"
+  },
+  "text": "J'ai bien aimé.",
+  "writer": {
+    "$oid": "60798d3a4ebb020f384f98ce"
+  },
+  "hotel": {
+    "$oid": "6079990a86214c1b04b13fb0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a6dd6ab6721d981b3a2d"
+  },
+  "text": "Hôtel très bien placé, au centre-ville, donc hyper proche de tout.",
+  "writer": {
+    "$oid": "60798d124ebb020f384f98cd"
+  },
+  "hotel": {
+    "$oid": "60799b2486214c1b04b13fb2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a13d44b1801312e4c50002"
+  },
+  "text": "J'aime tout !",
+  "writer": {
+    "$oid": "60a136edf497da2e401bf64d"
+  },
+  "hotel": {
+    "$oid": "6079990a86214c1b04b13fb0"
+  },
+  "__v": 0
+}]

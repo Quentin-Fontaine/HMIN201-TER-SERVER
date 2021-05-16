@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6079990a86214c1b04b13fb0"
+  },
+  "name": "Hotel Mercure Créolia",
+  "address": "14 Rue du Stade",
+  "zip": "97400",
+  "city": "Saint-Denis",
+  "country": "La Réunion",
+  "owner": {
+    "$oid": "60798cf04ebb020f384f98cc"
+  },
+  "__v": 0,
+  "description": "Hotêl SPA & Restaurant, bar, accessibilité personnes à mobilité réduite, parking, WIFI, piscine chauffée, cours de tennis."
+},{
+  "_id": {
+    "$oid": "607999a186214c1b04b13fb1"
+  },
+  "name": "AccorHotels Arena",
+  "address": "8 Boulevard de Bercy",
+  "zip": "75012",
+  "city": "Paris",
+  "country": "France",
+  "owner": {
+    "$oid": "60798cf04ebb020f384f98cc"
+  },
+  "__v": 0,
+  "description": "Hotêl SPA & Restaurant, bar, salle de concert/spectacle, accessibilité personnes à mobilité réduite, parking, WIFI."
+},{
+  "_id": {
+    "$oid": "60799b2486214c1b04b13fb2"
+  },
+  "name": "Ibis Montpellier Comédie",
+  "address": "Allée Jules Milhau, Immeuble Le Triangle, Rue du jeu de ballon",
+  "zip": "34000",
+  "city": "Montpellier",
+  "country": "France",
+  "owner": {
+    "$oid": "60798d3a4ebb020f384f98ce"
+  },
+  "__v": 0
+}]

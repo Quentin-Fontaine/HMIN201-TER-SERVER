@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "60798bfc4ebb020f384f98c8"
+  },
+  "lastname": "Hurry",
+  "firstname": "Canin",
+  "email": "hurricaninx93@gmail.com",
+  "password": "$2b$10$sbfonOM91FXmJ3.GCWqAq.Hjd8s17OY2wDYTEZU0p.As8mL4zHa2.",
+  "role": "Client",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60798c9d4ebb020f384f98ca"
+  },
+  "lastname": "Wyszynski",
+  "firstname": "Anthony",
+  "email": "anthony.wyszynsk@etu.umontpellier.fr",
+  "password": "$2b$10$aJqmIeG/2ycQUy1FYf7kPOkJBnsxuduTOMbVQtSOOTA1xfDJZhZUS",
+  "role": "Administrateur",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60798cc34ebb020f384f98cb"
+  },
+  "lastname": "Fontaine",
+  "firstname": "Quentin",
+  "email": "quentin.font974@gmail.com",
+  "password": "$2b$10$jpB6uu1zR5S1duRTobjmXO8pHxnpoQy07hT9q48ILu5noFBWnNYbS",
+  "role": "Administrateur",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60798cf04ebb020f384f98cc"
+  },
+  "lastname": "Desgenetez",
+  "firstname": "Charles",
+  "email": "charlimou@gmail.com",
+  "password": "$2b$10$jtsJ5ipkbjLVKZ3mTLILFef0sIlOLUoxyvuR8J/FZn7qh5P7jZGYS",
+  "role": "Gérant",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60798d124ebb020f384f98cd"
+  },
+  "lastname": "Reiter",
+  "firstname": "Maxime",
+  "email": "maximou@gmail.com",
+  "password": "$2b$10$V3KRhXSS/UEv0VvhjIuAGubzAB5D6on4o5uQZ/PNskczrCZBLyeKC",
+  "role": "Client",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60798d3a4ebb020f384f98ce"
+  },
+  "lastname": "Prud'Homme Gateau",
+  "firstname": "Sébastien",
+  "email": "sebinou@gmail.com",
+  "password": "$2b$10$ZcL2J9bMg8ynGhpyo2muaOJbYNkhrz9361yFdi7KJqqkcckPjplGO",
+  "role": "Gérant",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60798d554ebb020f384f98cf"
+  },
+  "lastname": "Canta",
+  "firstname": "Tho-Mas",
+  "email": "thominou@gmail.com",
+  "password": "$2b$10$K/Yxt0RQUv.17DIvadk2.uvvdWGxTrEWow3MEkmh80VaJzPFUpG6S",
+  "role": "Client",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609688b5a91d292b68e051a5"
+  },
+  "lastname": "Yo",
+  "firstname": "mec",
+  "email": "yo@mec.fr",
+  "password": "$2b$10$qH.WgsnDi8EWcDafsw1VBeXdZVxbPUjDT07Hhfq795JyiHU00p2i2",
+  "role": "Client",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a112f559838d07845774d2"
+  },
+  "lastname": "Freeks",
+  "firstname": "Gon",
+  "email": "gf@gmail.com",
+  "password": "$2b$10$Dx6DHrwM.J1cGfnP2V1FluslnBMRvcF/qVLJZO3C3U7o7aADGXCm6",
+  "role": "Client",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a136edf497da2e401bf64d"
+  },
+  "lastname": "Joe",
+  "firstname": "Jah",
+  "email": "rastafari@weed.jm",
+  "password": "$2b$10$CDSGftGDI4PTK3cZY3IEeevKzXxRuL1gJFZGxCwfRcdr.v4nBZGnS",
+  "role": "Client",
+  "__v": 0
+}]
