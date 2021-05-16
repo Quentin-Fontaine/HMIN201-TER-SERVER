@@ -1,13 +1,14 @@
 const express = require('express');
 const router = express.Router();
 
+const auth = require('../middleware/auth');
+
 const opinionCtrl = require('../controllers/opinion');
 
-router.route('/')
-    .post(opinionCtrl.addOpinion);
 
 router.route('/')
-    .get(opinionCtrl.getAllOpinions);
+    .get(opinionCtrl.getAllOpinions)
+    .post(opinionCtrl.addOpinion);
 
 router.param('opinionId', opinionCtrl.getOpinionMiddleware);
 router.route('/:opinionId')
